@@ -1,4 +1,4 @@
-# [Tu Nombre]
+# [Samuel Medrano]
 
 ## 👋 Acerca de Mí
 Breve introducción sobre ti. Puedes mencionar tu rol actual, tus intereses y lo que te apasiona en el mundo del desarrollo.
