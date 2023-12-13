@@ -1,6 +1,6 @@
 # Samuel Medrano
 
-## 👋 Acerca de Mí
+## 💫 Acerca de Mí
 ¡Hola! Soy Samuel, un Ingeniero Informático apasionado por el mundo del desarrollo web. En los últimos años, me he especializado en el desarrollo de aplicaciones web y me considero un desarrollador full-stack. Mi experiencia se centra en tecnologías como Laravel, Vue, React, PHP y JavaScript, lo que me ha permitido adquirir una comprensión profunda del ecosistema de desarrollo web.
 
 Mi interés principal reside en crear aplicaciones web innovadoras y eficientes. He tenido la oportunidad de contribuir significativamente en diversas empresas, donde he trabajado en múltiples proyectos desafiantes y enriquecedores como el comercio electrónico.
@@ -12,6 +12,10 @@ Aunque aún estoy definiendo mis objetivos a largo plazo, me siento motivado por
 ## 🛠 Habilidades
 
 Como Ingeniero Informático full-stack con experiencia en el desarrollo de aplicaciones web, tengo un amplio manejo y conocimiento de diversas herramientas y tecnologías profesionales:
+
+![](https://github-readme-stats.vercel.app/api?username=samuelmh96&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samuelmh96&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmh96&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Lenguajes de Programación
 - **Java**: Intermedio
@@ -66,4 +70,12 @@ Como Ingeniero Informático full-stack con experiencia en el desarrollo de aplic
 ## 💼 Experiencia
 - **Developer fullstack **: Trueekt https://trueekt.com.bo/
 
+---
+
+
+## 🌐 Redes sociales:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-medrano-47359111a) 
+
 ### Gracias por visitar mi perfil. ¡Espero que encuentres mis contribuciones e insights útiles e interesantes!
+
+
