@@ -62,7 +62,7 @@ Como Ingeniero Informático full-stack con experiencia en el desarrollo de aplic
 ---
 
 ## 💼 Experiencia
-- **Developer fullstack ** : Trueekt https://trueekt.com.bo/
+- **Developer fullstack**: Trueekt https://trueekt.com.bo/
 
 ---
 
