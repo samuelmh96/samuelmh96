@@ -1,11 +1,7 @@
 # 👨‍💻 Samuel Medrano - Desarrollador Web
 
 ## 💫 Acerca de Mí
-¡Hola! Soy Samuel, un Ingeniero Informático apasionado por el mundo del desarrollo web. En los últimos años, me he especializado en el desarrollo de aplicaciones web y me considero un desarrollador full-stack. Mi experiencia se centra en tecnologías como Laravel, Vue, React, PHP y JavaScript, lo que me ha permitido adquirir una comprensión profunda del ecosistema de desarrollo web.
-
-Mi interés principal reside en crear aplicaciones web innovadoras y eficientes. He tenido la oportunidad de contribuir significativamente en diversas empresas, donde he trabajado en múltiples proyectos desafiantes y enriquecedores como el comercio electrónico.
-
-Aunque aún estoy definiendo mis objetivos a largo plazo, me siento motivado por el constante aprendizaje y la evolución en el campo de la tecnología. Busco continuamente maneras de mejorar mis habilidades y mantenerme al día con las últimas tendencias en desarrollo web.
+Ingeniero Informático con enfoque en desarrollo web y experiencia como desarrollador full-stack. He trabajado con tecnologías como Laravel (PHP) y Vue.js, participando en proyectos web que incluyen plataformas de comercio electrónico. Me apasiona crear soluciones eficientes y seguir aprendiendo en un entorno tecnológico en constante cambio.
 
 ---
 
