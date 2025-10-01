@@ -35,7 +35,8 @@ Me motiva aprender constantemente y aportar soluciones prácticas a problemas re
 ---
 
 ## 💼 Experiencia
-**Developer Fullstack** – Trueekt (Bolivia)  
+
+**Developer Fullstack – [Trueekt](https://trueekt.com.bo/) (Bolivia)**  
 - Desarrollo de aplicaciones web con Laravel y Vue.js  
 - Implementación de plataformas de comercio electrónico  
 - Integración de bases de datos MySQL  
