@@ -1,4 +1,4 @@
-# 👨‍💻 Samuel Medrano - Desarrollador Fullstack (Laravel & Vue.js)
+## 👨‍💻 Samuel Medrano - Desarrollador Fullstack (Laravel & Vue.js)
 
 ## 💫 Acerca de mí
 Soy Ingeniero Informático especializado en **desarrollo web fullstack** con **Laravel** y **Vue.js**.  
